@@ -1,0 +1,31 @@
+
+body {
+	background: url(turkey.svg);
+	font-family: Courier New, monospace;
+}
+
+.table-responsive {
+	font-size: 16px;
+	table-layout: fixed;
+	width: 90%;
+}
+
+.jumbotron {
+    margin: 50px 0px;
+    background: #ffcc99;
+}
+
+input[type=radio] {
+    margin: 10px;
+}
+
+.well {
+    font-size: 20px;
+    background: #ffcc99;
+}
+
+td {
+  border-right: solid 1px gray;
+  border-left: solid 1px gray;
+  border-bottom: solid 1px gray;
+}

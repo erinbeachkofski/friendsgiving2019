@@ -3,7 +3,7 @@
 <?php
 	$servername = "localhost";
 	$username = "erinbea1_admin";
-	$password = "Variety#203";
+	$password = "password1234";
 	$dbname = "erinbea1_friendsgiving";
 
 	// Create connection
